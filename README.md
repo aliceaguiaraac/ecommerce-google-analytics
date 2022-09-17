@@ -7,7 +7,8 @@ A company markets products online and configured Google Analytics to extract dat
 2. How long, on average, does a visitor stay on our portal per day of the month? 
 3. What is the main source of access to our portal? 
 4. What operating system is most used to access our portal? 
-5. What device most used to access our portal? 6.What is the total billing per day?
+5. What device most used to access our portal? 
+6.What is the total billing per day?
 
 
 
@@ -18,4 +19,4 @@ A company markets products online and configured Google Analytics to extract dat
 
 
 
-This report was created using a fictitious dataset made available by Data Science Academy
+This report was created using a fictitious dataset made available by Data Science Academy.
