@@ -19,4 +19,4 @@ A company markets products online and configured Google Analytics to extract dat
 
 
 
-This report was created using a fictitious dataset made available by Data Science Academy.
+This report was created using Power BI tool with a fictitious dataset made available by Data Science Academy.
